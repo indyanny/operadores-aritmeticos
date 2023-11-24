@@ -1,5 +1,5 @@
 # Operadores aritmeticos
-Cqlculadora em linguagem C com inserção de valores e operações de:
+Calculadora em linguagem C com inserção de valores e operações de:
 
 - soma;
 
